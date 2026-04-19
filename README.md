@@ -4,7 +4,7 @@ A professional, full-stack Complaint Management System built with PHP + MariaDB 
 ________________________________________
 🌐 Live Demo
 
-•	App URL: http://13.233.143.97/complaint  #As if I stopped my instance the URL may change
+•	App URL: http://13.233.143.97/complaint  #As if I stopped my instance the URL changes
 
 •	Admin Login: admin@complaint.local
 
