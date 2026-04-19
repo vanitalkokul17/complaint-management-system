@@ -1,0 +1,10 @@
+</main></div>
+<script>
+document.querySelectorAll('.nav-item').forEach(function(el){
+    el.addEventListener('click',function(){
+        document.querySelectorAll('.nav-item').forEach(function(e){e.classList.remove('active');});
+        el.classList.add('active');
+    });
+});
+</script>
+</body></html>

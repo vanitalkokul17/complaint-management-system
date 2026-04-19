@@ -1,0 +1,18 @@
+# Config with secrets — NEVER commit
+includes/config.php
+.env
+*.env
+
+# User uploads
+assets/uploads/*
+!assets/uploads/.gitkeep
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*.log
+error_log

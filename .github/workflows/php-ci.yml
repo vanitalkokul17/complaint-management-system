@@ -1,0 +1,17 @@
+name: PHP CI — Syntax Check
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: shivammathur/setup-php@v2
+        with: { php-version: '8.1' }
+      - name: PHP Lint
+        run: find . -name "*.php" ! -path "./vendor/*" | xargs -I{} php -l {} && echo "✅ All PHP files OK"
+      - name: Check schema
+        run: test -f database/schema.sql && echo "✅ schema.sql exists"
