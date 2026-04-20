@@ -324,4 +324,16 @@ ________________________________________
 
 MIT License — free to use, modify, and distribute.
 
+Here, are some images of system out
+
+<img width="1917" height="1019" alt="Screenshot 2026-04-19 182650" src="https://github.com/user-attachments/assets/0fc10e9c-d93b-4e41-8b2e-bc27018538d0" />
+
 <img width="1918" height="1021" alt="Screenshot 2026-04-19 182617" src="https://github.com/user-attachments/assets/c06b9891-4edd-4543-8704-c30667789c27" />
+
+<img width="1918" height="1016" alt="Screenshot 2026-04-19 183112" src="https://github.com/user-attachments/assets/019f3b7e-3054-4329-b89d-665ad3d13e9c" />
+
+<img width="1919" height="1017" alt="Screenshot 2026-04-19 183127" src="https://github.com/user-attachments/assets/8bee9d47-ec6f-492a-87e2-68453f994895" />
+
+<img width="1919" height="1024" alt="Screenshot 2026-04-19 183159" src="https://github.com/user-attachments/assets/be17c4f6-50f1-4500-9bad-daad72165111" />
+
+<img width="1919" height="1023" alt="Screenshot 2026-04-19 183220" src="https://github.com/user-attachments/assets/7e842484-23b4-45e2-a298-a467bef2fd17" />
