@@ -323,3 +323,5 @@ ________________________________________
 📄 License
 
 MIT License — free to use, modify, and distribute.
+
+<img width="1918" height="1021" alt="Screenshot 2026-04-19 182617" src="https://github.com/user-attachments/assets/c06b9891-4edd-4543-8704-c30667789c27" />
