@@ -324,7 +324,7 @@ ________________________________________
 
 MIT License — free to use, modify, and distribute.
 
-Here, are some images of system out
+Here, are some images of system output
 
 <img width="1917" height="1019" alt="Screenshot 2026-04-19 182650" src="https://github.com/user-attachments/assets/0fc10e9c-d93b-4e41-8b2e-bc27018538d0" />
 
